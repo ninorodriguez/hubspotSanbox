@@ -20,5 +20,5 @@ jobs:
         HUBSPOT_PORTAL_ID: ${{ secrets.HubSpotPortalId }}
         HUBSPOT_API_KEY: ${{ secrets.HubSpotApiKey }}
       run: |
-        root/bin/generate-config.js
-        root/bin/deploy.sh
+        hubspotSanbox/HBSanbox/root/bin/generate-config.js
+        hubspotSanbox/HBSanbox/root/bin/deploy.sh
