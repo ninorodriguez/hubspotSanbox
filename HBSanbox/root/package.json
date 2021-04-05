@@ -1,5 +1,5 @@
 {
-    "name": "my-website-theme",
+    "name": "hb-sanbox",
     "version": "0.0.1",
     "devDependencies": {
       "@hubspot/cms-cli": "^1.0.2",
