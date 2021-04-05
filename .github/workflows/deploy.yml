@@ -13,5 +13,5 @@ jobs:
         with:
           src_dir: HBSanbox
           dest_dir: HBSanbox          
-          HUBSPOT_PORTAL_ID: ${{ secrets.HubSpotPortalId }}
-          HUBSPOT_API_KEY: ${{ secrets.HubSpotApiKey }}
+          portal_id: ${{ secrets.HubSpotPortalId }}
+          personal_access_key: ${{ secrets.HubSpotApiKey }}
