@@ -21,4 +21,4 @@ jobs:
         HUBSPOT_API_KEY: ${{ secrets.HubSpotApiKey }}
       run: |
         HBSanbox/root/bin/generate-config.js
-        HBSanbox/bin/deploy.sh
+        HBSanbox/root/bin/deploy.sh
