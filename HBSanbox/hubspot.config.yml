@@ -1,0 +1,12 @@
+defaultPortal: sanbox
+portals:
+  - name: sanbox
+    portalId: 19628292
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CL6pg_-ILxIIAA0ADAAA4AEYhIKuCSCYorYLKO7pDDIZALbS0GVrP7TVUvEOQvh4bqu6WUyXOQYcPDooAAAEQQAAAHgAAAAAAAAAAIABAAAAAAAEwADAB2D-_zEAAAAAAAAAYEIZALbS0GVCEzLwNdfx5AROlbXdO7HBSUiOf0oDbmEx
+        expiresAt: '2021-04-01T23:59:39.714Z'
+    personalAccessKey: >-
+      CiRkMzcyYWRlOS1hZDhlLTQzZWItOGRlYS1kMDhkYzEwNTAxNTAQhIKuCRiYorYLKhkABeaRgsjjeTJnBXiEaNO4rdRgbvoAEDGt
